@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='https://maycolur7.github.io/TopMusicsApp/dist/assets/logo.png')
+    img(src='https://maycolur7.github.io/TopMusicsApp/dist/logo.png')
     h1 PlatziMusic
     label(for="selector") Elija un país
     br
